@@ -5,4 +5,4 @@ Ce dépôt Git contient les supports et le matériel pédagogique du cours « M�
 - Ce dépôt est également distribué sous licence CC BY-NC-SA 4.0, par son auteur, Felipe ROCHA (felipe.figueredo-rocha@u-pec.fr, 2026).
 
 **Liens pour aller plus loin**
-- IA4dev : https://ai-for-dev.github.io
+- IA4dev : https://ai-for-dev.github.io/hands-on-harness/
