@@ -3,3 +3,6 @@ Ce dépôt Git contient les supports et le matériel pédagogique du cours « M�
 **Crédits & Licence**
 - Certaines images et certains scripts ont été reproduits ou sont fortement inspirés de l’excellent dépôt [Deep Learning in Computational Mechanics](https://github.com/cmpmech/deep-learning-in-computational-mechanics/) (Leon Herrmann et al., 2024), distribué sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 - Ce dépôt est également distribué sous licence CC BY-NC-SA 4.0, par son auteur, Felipe ROCHA (felipe.figueredo-rocha@u-pec.fr, 2026).
+
+**Liens pour aller plus loin**
+- IA4dev : https://ai-for-dev.github.io
